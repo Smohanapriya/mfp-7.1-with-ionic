@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../LPLATEST/www/js/diggingOfBoreWellCtrl.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../LPLATEST/www/js/dripIrrigationCtrl.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../LPLATEST/www/js/purchaseOfPumpsetCtrl.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../LPLATEST/www/js/sinkingOfNewWellCtrl.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../LPLATEST/www/templates/FarmMechanization.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../LPLATEST/www/templates/NetIncome.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../MobileFirst7.1/mymfp/www/js/app.js" charset="UTF-8" />
+  </component>
+</project>
