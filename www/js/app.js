@@ -112,7 +112,7 @@ window.MFPClientDefer.promise.then(function wlCommonInit(){
   alert('MobileFirst Client SDK Initilized');
   WL.Client.connect({
       onSuccess :function(){ alert("success")},
-      onFailure :function(){ alert("Fail")},
+      onFailure :function(){alert("Fail===>"+ JSON.stringify(response))},
   });
 
   mfpMagicPreviewSetup();
